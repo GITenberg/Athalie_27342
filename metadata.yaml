@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27342#Athalie
 gutenberg_issued: '2008-11-27'
 gutenberg_type: Text
 identifiers:
